@@ -39,3 +39,4 @@ CoderMrUku, houyue10@qq.com
 ## License
 
 XHGCDTimer is available under the MIT license. See the LICENSE file for more info.
+
