@@ -1,13 +1,15 @@
 //
-//  XHViewController.h
-//  XHGCDTimer
+//  ViewController.h
+//  AboutTimer
 //
-//  Created by CoderMrUku on 09/18/2018.
-//  Copyright (c) 2018 CoderMrUku. All rights reserved.
+//  Created by John on 2018/8/15.
+//  Copyright © 2018年 UKU. All rights reserved.
 //
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 @interface XHViewController : UIViewController
 
+
 @end
+

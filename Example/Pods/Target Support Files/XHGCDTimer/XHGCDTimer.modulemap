@@ -1,0 +1,6 @@
+framework module XHGCDTimer {
+  umbrella header "XHGCDTimer-umbrella.h"
+
+  export *
+  module * { export * }
+}
