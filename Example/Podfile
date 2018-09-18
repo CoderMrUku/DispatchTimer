@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XHGCDTimer_Example' do
+  pod 'XHGCDTimer', :path => '../'
+
+  target 'XHGCDTimer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
